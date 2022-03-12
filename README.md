@@ -22,7 +22,6 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
 * 👯 I’m looking to collaborate on Front End Web Development 
 * 🤝 I'm Looking for help with DSA
 * 🌌 Ask me about anything, I am happy to help
-* 😄 Pronouns: He/Him 
 * ⚡ Fun fact: I love music 🤪 
 
 <h3>
