@@ -30,6 +30,7 @@ Programming Languages I work with:rocket: <br>
 </h3>
 <img align="left" title="Python" alt="python" width="26px" src="./logos/python.svg" />
 <img align="left" title="C" alt="C" width="26px" src="./logos/c.svg" />
+<img align="left" title="C++" alt="C++" width="26px" src="./logos/cplusplus.svg" />
 <img align="left" title="JavaScript" alt="JavaScript" width="26px" src="./logos/javascript.svg" />
 <img align="left" title="HTML5" alt="HTML5" width="26px" src="./logos/html5.svg" />
 <img align="left" title="CSS3" alt="CSS3" width="26px" src="./logos/css3.svg" />
