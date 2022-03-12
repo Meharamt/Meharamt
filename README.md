@@ -3,9 +3,8 @@
 
 <p align="left"><img src="![](https://komarev.com/ghpvc/?username=Meharamt)" alt=""/></p>
 
-<center>
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236EF781&center=true&lines=Nice+to+e-meet+you%F0%9F%98%9C;I+am+an+aspiring+software+engineer%F0%9F%92%BB;Scroll+till+the+end%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
-</center>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236EF781&center=true&lines=Nice+to+e-meet+you%F0%9F%98%9C;I+am+an+aspiring+software+engineer%F0%9F%92%BB;Scroll+till+the+end%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/meharamt-singh/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/meharamt_singh)
