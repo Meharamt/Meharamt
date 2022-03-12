@@ -1,7 +1,7 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is MEHARAMT SINGH</h1>
 <h3 align="center">An UnderGrad Computer Engineering Student in India</h3>
 
-<p align="left"><img src="![](https://komarev.com/ghpvc/?username=Meharamt)" alt="Meharamt"/></p>
+<p align="left"><img src="![](https://komarev.com/ghpvc/?username=Meharamt)" alt=""/></p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236EF781&center=true&lines=Nice+to+e-meet+you%F0%9F%98%9C;I+am+an+aspiring+software+engineer%F0%9F%92%BB;Scroll+till+the+end%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
 
