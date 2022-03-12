@@ -11,7 +11,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/meharamt_singh/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meharamt2002singh@gmail.com)
 
-<img align="right" title="Meharamt Singh" alt="Meharamt Singh" width="400" src="./logos/animation.gif" />
+
 
 <h3 style=>
 Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
