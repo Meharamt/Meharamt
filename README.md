@@ -6,10 +6,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236EF781&center=true&lines=Nice+to+e-meet+you%F0%9F%98%9C;I+am+an+aspiring+software+engineer%F0%9F%92%BB;Scroll+till+the+end%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/meharamt-singh/)
-<!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](/*website link here*/) -->
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/meharamt_singh)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/meharamt_singh/)
-<!-- [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=Medium&logoColor=white)](/*blog profile link here*/) -->
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meharamt2002singh@gmail.com)
 
 <img align="right" title="Meharamt Singh" alt="Meharamt Singh" width="400" src="./logos/animation.gif" />
