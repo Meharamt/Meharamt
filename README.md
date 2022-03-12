@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is MEHARAMT SINGH</h1>
-<h3 align="center">An UnderGrad Computer Engineering Student in India</h3>
+<h3 align="center">A Computer Engineering Student 🙂</h3>
 
 <p align="left"><img src="![](https://komarev.com/ghpvc/?username=Meharamt)" alt=""/></p>
 
